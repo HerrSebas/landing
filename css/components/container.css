@@ -1,0 +1,21 @@
+.container-banner {
+  width: 900px;
+  margin: auto;
+}
+
+.container-topic {
+  text-align: center;
+}
+
+.container-topic h2 {
+  text-align: center;
+}
+
+.container-cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  justify-content: space-between;
+  margin-bottom: 30px;
+
+}

@@ -1,0 +1,28 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url(../../images/banner_background.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0px;
+}
+
+.banner h1 {
+  color: rgba(240, 248, 255, 0.984);
+}
+
+.banner a {
+  background-color: rgb(87, 8, 160);
+  color: whitesmoke;
+  font-weight: bold;
+  border: 2px solid whitesmoke;
+  border-radius: 20px;
+  padding: 12px;
+}
+
+.banner a:hover{
+  opacity: 0.7;
+}
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}

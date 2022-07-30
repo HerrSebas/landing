@@ -1,0 +1,14 @@
+div {
+  display: block;
+}
+
+#list-inline li{
+  list-style: none;
+  padding-left: 20px;
+  display: inline-block;
+  text-align: center;
+}
+
+.links a:hover {
+  color: #15154b65;
+}
